@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SampleAutomation:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SampleAutomation_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SampleAutomation/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SampleAutomation" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
